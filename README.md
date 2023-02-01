@@ -24,14 +24,14 @@ The first definition is illustrated by the automata of shown in
 the folloging figure.
 
 <p align="center">
-  <img src="./figures/algomata/trialhomeprison.png" 
+  <img src="./figures/leyalgomata/trialhomeprison.png" 
    width="300" title="Automata used to enforce the law.">
 </p>
 </br>
 
 The definition is illustrated by the following figure.
 <p align="center">
-  <img src="./figures/algomata/gibbet.png" 
+  <img src="./figures/leyalgomata/gibbet.png" 
    width="300" title="The risk of law automation.">
 </p>
 </br>
