@@ -24,7 +24,7 @@ The idea behinhs the first point is illustrated by the
 Finite State Automata of shown in the folloging figure:
 
 <p align="center">
-  <img src="./figures/leyalgomata/trialhomeprisionfsm.png" 
+  <img src="./figures/leyalgomata/Leyalgomata_finitestateautonoma.png" 
    width="300" title="Automata used to enforce the law.">
 </p>
 </br>
@@ -35,7 +35,7 @@ figure:
 
 
 <p align="center">
-  <img src="./figures/leyalgomata/gibbet.png" 
+  <img src="./figures/leyalgomata/Leyalgomata_gibbet.png" 
    width="600" title="Lex algomata in action.">
 </p>
 </br>
