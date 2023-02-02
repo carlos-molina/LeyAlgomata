@@ -36,6 +36,6 @@ figure:
 
 <p align="center">
   <img src="./figures/leyalgomata/Leyalgomata_gibbet.png" 
-   width="600" title="Lex algomata in action.">
+   width="800" title="Lex algomata in action.">
 </p>
 </br>
