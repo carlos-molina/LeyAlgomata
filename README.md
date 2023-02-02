@@ -24,7 +24,7 @@ The first definition is illustrated by the automata of shown in
 the folloging figure.
 
 <p align="center">
-  <img src="./figures/leyalgomata/gibbet.png" 
+  <img src="./figures/leyalgomata/trialhomeprisionfsm.png" 
    width="300" title="Automata used to enforce the law.">
 </p>
 </br>
