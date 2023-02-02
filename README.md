@@ -1,6 +1,6 @@
 # Ley Algomata (Lex Algomata)
 
-Some people call it **Algorithmic Governance**. I prefer to call it **Lex Algomata** or (**Ley Algomatica**) because this term highlights two distinctive features of this emerging technology, namely, automation and risk, as explained in 1 and 2, below. 
+Some people call it **Algorithmic Governance**. I prefer to call it **Lex Algomata** or (**Ley Algomata**) because this term highlights two distinctive features of this emerging technology, namely, automation and risk, as explained in 1 and 2, below. 
 
 In brief, the Lex Algomata, is expected to automate most of the judicial 
 procedures that are currently executed by humans (lawyers) to enforce 
