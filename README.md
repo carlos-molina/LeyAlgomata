@@ -14,14 +14,14 @@ the law:
    (normally represented by lawyers) to enforce the law automatically.
   
  
- 2. Algomata:  in my more serious and worringly definition, **algo** stands 
+ 2. Ley algomata:  in my more serious and worringly definition, **algo** stands 
     for **something** and **mata** stands for **kill** (all in Spanish 
     language).  It tries to raise concerns that careless automation of law 
     can cause serious problems including death. Let us not forget that
     Computer Technology is not free from failures.  
     
-The first definition is illustrated by the automata of shown in
-the folloging figure.
+The idea behinhs the first point is illustrated by the 
+Finite State Automata of shown in the folloging figure:
 
 <p align="center">
   <img src="./figures/leyalgomata/trialhomeprisionfsm.png" 
@@ -30,7 +30,10 @@ the folloging figure.
 </br>
 
 
-The definition is illustrated by the following figure.
+The idea behind the second point is illustrated by the following 
+figure:
+
+
 <p align="center">
   <img src="./figures/leyalgomata/gibbet.png" 
    width="600" title="Lex algomata in action.">
