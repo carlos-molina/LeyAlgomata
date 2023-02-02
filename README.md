@@ -1,5 +1,4 @@
 # Ley Algomata (Lex Algomata)
-=============================
 
 Some people call it **Algorithmic Governance**. I prefer to call it **Lex Algomata** or (**Ley Algomatica**) because this term highlights two distinctive features of this emerging technology, namely, automation and risk, as explained in 1 and 2, below. 
 
