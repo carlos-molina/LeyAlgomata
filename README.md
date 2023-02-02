@@ -33,6 +33,6 @@ the folloging figure.
 The definition is illustrated by the following figure.
 <p align="center">
   <img src="./figures/leyalgomata/gibbet.png" 
-   width="300" title="The risk of law automation.">
+   width="600" title="Lex algomata in action.">
 </p>
 </br>
