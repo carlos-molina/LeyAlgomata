@@ -29,6 +29,7 @@ the folloging figure.
 </p>
 </br>
 
+
 The definition is illustrated by the following figure.
 <p align="center">
   <img src="./figures/leyalgomata/gibbet.png" 
