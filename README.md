@@ -19,7 +19,7 @@ the law.
     can cause serious problems including death. Let us not forget that
     Computer Technology is not free from failures.  
     
-The idea behinhs the first point is illustrated by the 
+The idea behind the first point is illustrated by the 
 Finite State Automata of shown in the folloging figure:
 
 <p align="center">
@@ -38,3 +38,5 @@ figure:
    width="800" title="Lex algomata in action.">
 </p>
 </br>
+
+
