@@ -2,10 +2,14 @@
 
 Some people call it **Algorithmic Governance**. I prefer to call it **Lex Algomata** or (**Ley Algomata**) because this term highlights two distinctive features of this emerging technology, namely, automation and risk, as explained in 1 and 2, below. 
 
-In brief, the Lex Algomata, is expected to automate most of the judicial 
-procedures that are currently executed by humans (e.g., lawyers) to enforce 
+In brief, the Lex Algomata, has the potencial to automate 
+most of the judicial procedures that are currently executed 
+by humans (e.g., lawyers and judges) and mainly
+manually (i.e with little or not automation) to enforce 
 the law.
 
+ 
+## Why do I call it Lex Algomata?
 1. Ley algomata: in my serious and direct definition _algo_ stands 
    for **algorithm** 
    and _mata_ stands for **automa**. This suggests the use of
